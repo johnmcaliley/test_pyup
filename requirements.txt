@@ -156,7 +156,7 @@ sphinx-rtd-theme==0.4.3
 sphinxcontrib-websupport==1.1.0
 statsmodels==0.9.0
 tensorboard==1.12.2
-tensorflow==1.12.0
+tensorflow==2.3.1
 termcolor==1.1.0
 terminado==0.8.1
 termstyle==0.1.11
