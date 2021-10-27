@@ -31,7 +31,7 @@ cycler==0.10.0
 Cython==0.29.5
 cytoolz==0.9.0.1
 darkskylib==0.3.91
-dask==2.0.0
+dask==2021.10.0
 decorator==4.3.2
 -e git+https://github.com/deltabravo-ai/deltabravo-ai.git@5d56cb33df8d423aee0ce48046e1a2c93b05edb0#egg=deltabravo_ai
 dictances==1.5.0
